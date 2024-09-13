@@ -44,7 +44,7 @@ I specialize in creating responsive, high-performance web applications using cut
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revxcode&show_icons=true&theme=radical)
 
 ## 📫 Get in touch
-- [Portfolio](https://revenue-programming.com)
+- [Portfolio](https://revenue-programming.my.id)
 - [Instagram](https://instagram.com/revenue0x)
 
 Thanks for stopping by! Let's build something amazing together! 🚀
