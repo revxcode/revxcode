@@ -26,7 +26,6 @@ I specialize in creating responsive, high-performance web applications using cut
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
@@ -45,8 +44,7 @@ I specialize in creating responsive, high-performance web applications using cut
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Get in touch
-- [Portfolio](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- [Twitter](https://twitter.com/yourtwitter)
+- [Portfolio](https://revenue-programming.com)
+- [LinkedIn](https://linkedin.com/in/teguhersyarudin)
 
 Thanks for stopping by! Let's build something amazing together! 🚀
