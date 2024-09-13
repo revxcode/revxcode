@@ -45,6 +45,6 @@ I specialize in creating responsive, high-performance web applications using cut
 
 ## 📫 Get in touch
 - [Portfolio](https://revenue-programming.com)
-- [LinkedIn](https://linkedin.com/in/teguhersyarudin)
+- [Instagram](https://instagram.com/revenue0x)
 
 Thanks for stopping by! Let's build something amazing together! 🚀
