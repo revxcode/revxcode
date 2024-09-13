@@ -41,7 +41,7 @@ I specialize in creating responsive, high-performance web applications using cut
 - 💡 Experimenting with **WebAssembly** and **GraphQL**
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revxcode&show_icons=true&theme=radical)
 
 ## 📫 Get in touch
 - [Portfolio](https://revenue-programming.com)
