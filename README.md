@@ -33,7 +33,6 @@ I specialize in creating responsive, high-performance web applications using cut
 - Building **modern web applications** using **React** and **Next.js**
 - Crafting robust **APIs** with **Laravel** and **Node.js**
 - Diving into **TypeScript** for scalable front-end solutions
-- Exploring new tools in **DevOps** to enhance development pipelines
 
 ## 🌱 Learning & Goals
 - 🌍 Improving web accessibility and performance optimization
