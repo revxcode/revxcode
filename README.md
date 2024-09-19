@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [RevXcode]!
+# Hi there 👋 I'm RevXcode!
 
 🚀 **Full-stack Web Developer** | ⚡ **Problem Solver**
 
