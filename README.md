@@ -4,6 +4,11 @@
 
 I am a website developer based in Indonesia, always eager to learn something new and interesting.
 
+### 🛠 Tech Stack
+
+- **Frontend:** React, Next.js, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express, PostgreSQL
+
 **Connect with me:**
 
 * 🐙 [GitHub](https://github.com/revxcode)
