@@ -1,11 +1,13 @@
-# Hi there I'm Teguh Ersyarudin
+## Hi there, I'm Teguh Ersyarudin 🚀
 
-🚀 **Full-stack Web Developer**
+**Full-stack Web Developer**
 
-I am a website developer based in Indonesia, also like to learn something new and interesting.
+I am a website developer based in Indonesia, always eager to learn something new and interesting.
 
-## Contact me
+**Connect with me:**
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=social&logo=instagram&logoColor=white)](https://www.instagram.com/revenue0x)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teguh-ersyarudin-aab190322)
-[![TikTok](https://img.shields.io/badge/-TikTok-black?style=social&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your_tiktok_username/)
+* [Instagram](<https://instagram.com/revenue0x>) <i class="fab fa-instagram"></i>
+* [LinkedIn](<https://www.linkedin.com/in/teguh-ersyarudin-aab190322>) <i class="fab fa-linkedin-in"></i>
+* [TikTok](<your_tiktok_link>) <i class="fab fa-tiktok"></i>
+
+**Feel free to reach out!**
