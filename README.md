@@ -1,10 +1,10 @@
-## Hi there, I'm Teguh Ersyarudin
+### Hi there, I'm Teguh Ersyarudin
 
 **🚀 | Full-stack Web Developer**
 
 I am a website developer based in Indonesia, always eager to learn something new and interesting.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend:** React, Next.js, Tailwind CSS, TypeScript
 - **Backend:** Node.js, Express, PostgreSQL
